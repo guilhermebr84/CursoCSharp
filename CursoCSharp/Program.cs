@@ -43,8 +43,11 @@ namespace CursoCSharp {
                 {"Construtores - Classes e Métodos", Construtores.Executar},
                 {"Metodos com Retorno - Classes e Métodos", MetodosComRetorno.Executar},
                 {"Metodos Estaticos - Classes e Métodos", MetodosEstaticos.Executar},
-                {"Atributos Estaticos - Classes e Métodos", MetodosEstaticos.Executar},
-                {"Desafio Atributos - Classes e Métodos", DesafioAtributo.Executar}
+                {"Atributos Estaticos - Classes e Métodos", AtributosEstaticos.Executar},
+                {"Desafio Atributo - Classes e Métodos", DesafioAtributo.Executar},
+                {"Parametros Variáveis - Classes e Métodos", Params.Executar},
+                {"Parametros Nomeados - Classes e Métodos", ParamsNomeados.Executar},
+                {"Getters e Setters - Classes e Métodos", GettersSetters.Executar}
 
             });
 

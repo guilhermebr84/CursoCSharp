@@ -5,7 +5,7 @@ using System.Text;
 namespace CursoCSharp.ClassesEMetodos {
 
 public class StaticCalc {
-        // quando usa o metodo "static" significa que o meto    do refere-se ao metodo
+        // quando usa o metodo "static" significa que o metodo refere-se ao metodo
         public int Sum(int a, int b) { // metodo de instancia
             return a + b;
         }
